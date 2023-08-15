@@ -6,5 +6,8 @@ RULA (Rapid Upper Limb Assesment)
 - Lengan Atas
 - Lengan Bawah
 - Pergelangan Tangan
-- Putaran Pergelangan Tangan
-- 
+- Putaran Pergelangan tangan
+- Leher
+- Punggung
+- Kaki
+- Penggunaan Otot dan Beban
