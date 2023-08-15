@@ -1,6 +1,8 @@
-# RULA applicaiton (Rapid Upper Limb Assesment)
-RULA (Rapid Upper Limb Assesment)
+Daftar-Biodata-Siswa
+==
+Daftar biodata Siswa Dicoding Academy
 --
-- Upper Arm
-RULA adalah suatu metode untuk menganalisa ergonomi postur tubuh pada pekerjaan dengan penggunaan bagian tubuh atas. Analisa RULA dilakukan apabila terdapat laporan keluhan pada tubuh bagian atas yang disebabkan oleh postur tubuh yang tidak ergonomis.
-
+*biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
